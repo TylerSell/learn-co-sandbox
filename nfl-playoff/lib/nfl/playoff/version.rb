@@ -1,5 +1,5 @@
 module Nfl
-  module Playoffs
+  module Playoff
     VERSION = "0.1.0"
   end
 end

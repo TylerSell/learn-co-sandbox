@@ -1,7 +1,7 @@
-require "nfl/playoffs/version"
+require "nfl/playoff/version"
 
 module Nfl
-  module Playoffs
+  module Playoff
     # Your code goes here...
   end
 end

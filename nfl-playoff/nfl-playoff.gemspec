@@ -1,11 +1,11 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "nfl/playoffs/version"
+require "nfl/playoff/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "nfl-playoffs"
-  spec.version       = Nfl::Playoffs::VERSION
+  spec.name          = "nfl-playoff"
+  spec.version       = Nfl::Playoff::VERSION
   spec.authors       = ["'tylerselldesign'"]
   spec.email         = ["'tylerselldesign@gmail.com'"]
 
